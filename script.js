@@ -1,6 +1,6 @@
 // Dados simulados para usuários (funcionários)
 const users = [
-  { username: 'Bernardo', password: '201988', name: 'Administrador' },
+  { username: 'Bernardo', password: '201988', name: 'Bernardo' },
   { username: 'garcom1', password: 'abcd', name: 'Garçom 1' },
   { username: 'garcom2', password: 'abcd', name: 'Garçom 2' }
 ];
